@@ -1,12 +1,12 @@
 import { watchFile, unwatchFile } from 'fs'
-import chalk from 'chalk'
+import chalk from 'BOT'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-global.owner = [['917605902011', 'GURU', true], ['6281255369012', 'Ash', true], ['']] //Number of owners
+global.owner = [['923038941686', '乛N〇〇B 🔥', true], ['923379148740', '7K_LEGEND', true], ['']] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
-
+15
 global.mods = ['917605902011', '32460248586']
 global.prems = ['917605902011', '32460248586', '919398758484']
 global.allowed = ['917605902011', '32460248586', '19152999993']
